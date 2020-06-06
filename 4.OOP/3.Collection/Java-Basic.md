@@ -1,0 +1,69 @@
+### 1. Định nghĩa Java cơ bản
+- Lập Trình Hướng Đối Tượng OOP
+- Giới Thiệu ngôn ngữ lập trình Java
+- Cài đặt môi trường Java cho hệ điều hành windows
+- Tạo Project Java đầu tiên
+- Cấu trúc và Quy chuẩn coding Java Cơ bản
+- Các kiểu dữ liệu cơ bản trong Java
+- Toán Tử Cơ Bản Toán Học và Phép Gán trong Java
+- Cách Tạo Hàm và Sử dụng trong Java
+- Chuỗi trong Java
+- Hằng Số Trong Java
+- Package và Import trong Java
+- Nhập Giá Trị Vào Từ Bàn Phím
+- Câu điều kiện if và toán tử so sánh
+- Câu điều kiện if else lồng nhau
+- Câu điều kiện switch
+- Toán từ điều kiện ? : trong Java
+- Mảng trong Java
+- Vòng lặp while
+- Vòng lặp do while
+- Vòng lặp for trong Java
+- Vòng lặp for each (for enhanced) trong Java
+- Câu lệnh break trong java
+- Câu lệnh continue trong java
+- Phép toán i++ và ++i trong Java
+- Sắp xếp và tìm kiếm với mảng trong java
+
+### 2. Giới thiệu về Class và đối tượng
+- Class và Object trong Java
+- Biến và Hàm Instance (Object) trong Java
+- Constructor Java
+- Biến và Hàm Class hay Static
+- Các loại biến và Hàm trong Java
+- Quản lý truy cập và bảo mật trong Java
+- Bộ nhớ Stack và Heap trong Java
+- Tạo mảng của đối tượng trong Java
+- Sự khác nhau giữa giá trị null và 0 trong Java
+- Kế thừa trong Java
+- Quản lý truy cập và kế thừa trong Java
+- Từ khóa super và this
+- Phương thức Override và Overload method trong Java
+- Đa hình trong Java
+- Class Object trong Java
+- Ép kiểu đối tượng trong Java
+- Đóng gói trong java
+- Abstract Class trong Java
+- Phương thức abstract trong Java
+- Interface trong java
+- Kế thừa Interface trong Java
+- Wrapper Class và Autoboxing
+- Các hàm toán học trong Java
+- Ngày và Giờ trong Java
+
+### 3. Ngoại lệ, quản lý và bắt ngoại lệ
+- Giới thiệu về ngoại lệ, quản lý và bắt ngoại lệ trong Java
+- Anonymous Inner Class
+- Exception Ngoại lệ trong Java
+- try catch bắt lỗi exception trọng Java
+- Finally trong Exception
+- throw/throws một exception trong Java
+- Cách tạo một exceptions theo ý muốn
+- Cách tạo enum trong Java
+- Thread – đa luồng trong Java
+- Vòng đời của Thread trong Java
+- Synchronization Đồng bộ hoá Thread
+- Deadlock Thread trong Java
+- Đọc và Ghi File trong Java
+- Tạo thư mục và đọc ghi file
+- Tạo JAR file trong Java

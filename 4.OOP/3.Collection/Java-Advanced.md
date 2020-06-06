@@ -1,0 +1,34 @@
+### 1. Cấu trúc dữ liệu và giải thuật
+- Hàm equals và hashCode trong Class
+- So sánh 2 đối tượng
+- Cấu trúc dữ liệu và giải thuật
+- List – Arraylist
+- List – LinkedList
+- List – Vector
+- Sắp xếp các phần tử trong List
+- Comparable trong Java
+- Comparator trong Java
+- Iterator trong Java
+- Set – HashSet
+- Map – HashMap
+- StringBuilder và StringBuffer
+- Serializable Object trong Java
+- Lưu Object vào File trong Java
+- Định dạng Số trong Java
+- Định dạng tiền tệ trong Java
+- Định dạng ngày trong Java
+- Chuyển đổi ngày trong Java
+
+### 2. JDBC trong Java
+- Giới thiệu về JDBC
+- JDBC trong Java
+- Kết nối JDBC với MySql Server
+- Kết nối JDBC với Oracle
+- Kết nối JDBC với MS SQL
+- JDBC Statements và ResultSet
+- SELECT WHERE Statement JDBC
+- CREATE, DROP Statement JDBC
+- INSERT, UPDATE, DELETE Statement JDBC
+- PrepareStatement JDBC
+- SELECT, UPDATE, DELETE PrepareStatement JDBC
+- JDBC Transaction
